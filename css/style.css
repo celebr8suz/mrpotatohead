@@ -1,0 +1,49 @@
+#body {
+    position:relative;
+    left:400px;
+    top: -10px;
+    float:left;
+    z-index:45;
+    
+}
+#eyes {
+    position:relative;
+    left:40px;
+    top:110px;
+    z-index:47;
+}
+
+#hat {
+    position:relative;
+    left:-325px;
+    top:0px;
+    z-index:46;
+}
+
+#mouth {
+    position:relative;
+    left:45px;
+    top:160px;
+    z-index:50;
+}
+
+#mustache {
+    position:relative;
+    left:-255px;
+    top: 100px;
+    z-index:48;
+}
+
+#nose {
+    position: relative;
+    left: 45px;
+    top:-205px;
+    z-index:48;
+}
+
+#shoes {
+    position: relative;
+    left:-320px;
+    top:130px;
+    z-index:51;
+}
